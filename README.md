@@ -20,13 +20,15 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 ## Rapidfire  
 <table><tr>
-- 🌱 I’m currently learning Azure.  
+  
+- 🌱 I’m currently learning Azure  
   
 
-- ❓ Ask me about anything related to .Net Core, C#, MSSQL Server, Rest API.
+- ❓ Ask me about anything related to .Net Core, C#, MSSQL Server, Rest API.  
   
 
 -  💼 All of my projects are available at https://github.com/amiteshanand20  
+
 
 
 </tr></table>  
