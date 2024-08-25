@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amiteshanand20](https://github.com/amiteshanand20)
 
-- 💬 Ask me about **.Net Core,C#,MSSQL Server,Rest API.**
+- 💬 Ask me about **.Net Core, C#, MSSQL Server, Rest API.**
 
 - 📫 How to reach me **amiteshanand20@gmail.com**
 
