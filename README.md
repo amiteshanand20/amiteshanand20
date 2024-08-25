@@ -21,10 +21,10 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently learning Azure  
+- 🌱 I’m currently learning Azure.  
   
 
-- ❓ Ask me about anything related to .Net Core, C#, MSSQL Server, Rest API.  
+- ❓ Ask me about anything related to .Net Core, C#, MSSQL Server, Rest API.
   
 
 -  💼 All of my projects are available at https://github.com/amiteshanand20  
@@ -65,15 +65,8 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 <br/>  
 
-  
-
 <br/>  
 
-
 <br/>  
-
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
