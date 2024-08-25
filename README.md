@@ -63,10 +63,4 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 </td></tr></table>  
 
-<br/>  
 
-<br/>  
-
-<br/>  
-
-<br />
