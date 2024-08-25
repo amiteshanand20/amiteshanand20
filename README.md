@@ -30,9 +30,6 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 -  💼 All of my projects are available at https://github.com/amiteshanand20  
 
 
-</td><td valign="top" width="50%">
-
-
 </td></tr></table>  
 
 <br/>  
