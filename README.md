@@ -19,8 +19,7 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
+<table><tr>
 - 🌱 I’m currently learning Azure.  
   
 
@@ -30,7 +29,7 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 -  💼 All of my projects are available at https://github.com/amiteshanand20  
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
