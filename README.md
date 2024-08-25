@@ -19,7 +19,7 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning Azure  
   
@@ -69,8 +69,6 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=amiteshanand20&&style=flat-square)  
-  
 
 <br/>  
 
