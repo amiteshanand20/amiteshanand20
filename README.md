@@ -52,12 +52,13 @@ I am working as a .Net fullstack software developer,soaking up as much knowledge
 
 
 ## Github Stats  
-<table><tr>
+<table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=amiteshanand20&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
-
+</td><td valign="top" width="50%">
+  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiteshanand20&hide_border=true&layout=compact" align="center" style="width: 100%" />
-
-</tr></table>  
+</div> 
+</td></tr></table>  
 
 
