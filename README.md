@@ -12,7 +12,7 @@
 
 
 
-## Connect with me:
+## Connect with me
 <p align="left">
 <a href="https://www.hackerrank.com/amiteshanand251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amiteshanand251" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/amitesh-anand20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitesh-anand20" height="30" width="40" /></a>
