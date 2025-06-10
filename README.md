@@ -7,7 +7,7 @@
 
 ## Rapidfire
 - 🌱 I've just started diving into **Azure.**
-- 💬 Ask me about **.Net Core, C#, MSSQL Server, Rest API.**
+- 💬 Ask me about **.Net, C#, MSSQL Server, Rest API.**
 - 👨‍💻 All of my projects are available at [https://github.com/amiteshanand20](https://github.com/amiteshanand20)
 
 
